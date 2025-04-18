@@ -140,6 +140,10 @@
 
 ###
 
+<h4 align="left"> Projeto orientado pelo professor Vitor Silva Ribeiro.</h4>
+
+###
+
 <h2 align="left">Redes Sociais - Univale:</h2>
 
 ###
